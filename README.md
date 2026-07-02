@@ -209,7 +209,7 @@ These logs are essential for auditing administrative changes and supporting inci
 
 ### Screenshot
 
-![Audit Logs](Screenshots/08-audit-logs.png)
+![Audit Logs](Screenshots/08-Audit-Logs.png)
 
 ---
 
@@ -230,7 +230,7 @@ Sign-in monitoring assists security teams in identifying suspicious authenticati
 
 ### Screenshot
 
-![Sign-In Logs](Screenshots/09-signinlogs.png)
+![Sign-In Logs](Screenshots/09-SigninLogs.png)
 
 ---
 
@@ -242,7 +242,7 @@ Microsoft Entra B2B enables organizations to securely collaborate with vendors, 
 
 ### Screenshot
 
-![Guest User](Screenshots/10-Guestuser.png)
+![Guest User](Screenshots/10-GuestUser.png)
 
 ---
 
