@@ -230,7 +230,7 @@ Sign-in monitoring assists security teams in identifying suspicious authenticati
 
 ### Screenshot
 
-![Sign-In Logs](Screenshots/09-SigninLogs.png)
+![Sign-In Logs](Screenshots/09-SignInLogs.png)
 
 ---
 
