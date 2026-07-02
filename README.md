@@ -124,7 +124,7 @@ Employee accounts were created and assigned to the appropriate departments to si
 
 ### Screenshot
 
-![Enterprise Users](Screenshots/02_users.png)
+![Enterprise Users](Screenshots/02-Users.png)
 
 ---
 
@@ -136,7 +136,7 @@ Each department received its own dedicated security group to support scalable pe
 
 ### Screenshot
 
-![Security Groups](Screenshots/03-groups.png)
+![Security Groups](Screenshots/03-Groups.png)
 
 ---
 
@@ -148,7 +148,7 @@ This demonstrates group-based access management rather than assigning permission
 
 ### Screenshot
 
-![Group Membership](Screenshots/04-groupmembers.png)
+![Group Membership](Screenshots/04-GroupMembers.png)
 
 ---
 
@@ -191,7 +191,7 @@ Designed policies included:
 
 ### Screenshot
 
-![Conditional Access Design](Screenshots/07-conditional-access-design.png)
+![Conditional Access Design](Screenshots/07-Conditional-Access-Design.png)
 
 ---
 
